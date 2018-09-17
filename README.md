@@ -7,7 +7,8 @@ This is a learning phase project. The whole project is divided into two sections
 
 ## Datasets
 
-Dataset repository:  (https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+Dataset repository:  https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+
 Reasons for choosing this dataset: Randomly selected
 
 ## Prerequisites
