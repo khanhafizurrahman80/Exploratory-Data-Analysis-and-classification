@@ -33,7 +33,7 @@ __Procedure__
 8. Skewness of the features
 9. Find important features 
 10. Transform numerical data into range interval and visualise the number of target variable data respect to the ranges
-11. addNoise()
+11. addNoise(Just for learning purpose)
 
 ### Classification Methods
 1. Logistic Regression
