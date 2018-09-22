@@ -41,5 +41,7 @@ __Procedure__
 3. Random Forest
 4. K-Nearest Neighbours
 5. Naive Bayes
-6. Decision Tree
-7. Neural Network (will be uploaded in a different project)
+6. Neural Network (will be uploaded in a different project)
+
+### Accuracy of classification
+1. ROC value
