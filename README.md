@@ -41,7 +41,7 @@ __Procedure__
 3. Random Forest
 4. K-Nearest Neighbours
 5. Naive Bayes
-6. Neural Network (will be uploaded in a different project)
+6. Neural Network ( https://github.com/khanhafizurrahman80/Deep-Neural-Network-Classification )
 
 ### Accuracy of classification
 1. ROC value
